@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>About TechCon 2024</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS file -->
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>About TechCon 2024</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="schedule.html">Schedule</a></li>
+                <li><a href="register.html">Register</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        
+        <!-- History Section -->
+        <article>
+            <h2>History of TechCon</h2>
+            <p>TechCon was first launched in 2010 as a small tech gathering. Since then, it has grown into one of the most prominent conferences in the tech industry, attracting thousands of professionals and innovators from around the world. With over a decade of history, TechCon has become the go-to event for discovering the latest trends and innovations in technology.</p>
+            <figure>
+                <img src="techcon-history.jpg" alt="A historical photo of TechCon's first year" width="600">
+                <figcaption>TechCon 2010: The very first gathering of TechCon.</figcaption>
+            </figure>
+        </article>
+
+        <!-- Mission Section -->
+        <article>
+            <h2>Our Mission</h2>
+            <p>Our mission is to inspire innovation, foster collaboration, and provide a platform for the exchange of ideas. TechCon 2024 aims to bring together industry leaders, thought-provoking speakers, and passionate individuals to explore the future of technology. We believe that tech is the key to solving the world’s most pressing challenges.</p>
+            <figure>
+                <img src="tech-conference-mission.jpg" alt="TechCon speakers engaging with the audience" width="600">
+                <figcaption>TechCon 2024 Mission: Bringing tech enthusiasts together to create a better future.</figcaption>
+            </figure>
+        </article>
+
+        <!-- Past Speakers Section -->
+        <article>
+            <h2>Notable Past Speakers</h2>
+            <p>Over the years, TechCon has hosted some of the most influential speakers in the tech world. These experts have shared their groundbreaking ideas, research, and visions for the future of technology. Here are a few of our past speakers:</p>
+            
+            <section>
+                <h3>Elon Musk</h3>
+                <p>Elon Musk, CEO of SpaceX and Tesla, delivered a talk about the future of electric vehicles and space exploration. His bold vision for a sustainable future continues to inspire millions.</p>
+                <figure>
+                    <img src="elon-musk.jpg" alt="Elon Musk speaking at TechCon" width="300">
+                    <figcaption>Elon Musk at TechCon 2018</figcaption>
+                </figure>
+            </section>
+
+            <section>
+                <h3>Sheryl Sandberg</h3>
+                <p>Sheryl Sandberg, COO of Facebook, shared her insights on leadership, technology, and gender equality in the tech industry. Her talk emphasized the importance of empowering women in tech.</p>
+                <figure>
+                    <img src="sheryl-sandberg.jpg" alt="Sheryl Sandberg speaking at TechCon" width="300">
+                    <figcaption>Sheryl Sandberg at TechCon 2019</figcaption>
+                </figure>
+            </section>
+
+            <section>
+                <h3>Satya Nadella</h3>
+                <p>Satya Nadella, CEO of Microsoft, talked about the role of AI and cloud computing in shaping the future of business. His innovative approach to tech continues to redefine the industry.</p>
+                <figure>
+                    <img src="satya-nadella.jpg" alt="Satya Nadella speaking at TechCon" width="300">
+                    <figcaption>Satya Nadella at TechCon 2020</figcaption>
+                </figure>
+            </section>
+        </article>
+
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 TechCon. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
